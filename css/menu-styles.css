@@ -1,0 +1,103 @@
+/*.main-container {
+  background-color: rgb(98, 162, 204);
+}*/
+.iceCream-menu-container {
+  position: absolute;
+  transform: scale(0.7, 0.7);
+  bottom: 0%;
+  right: 0%;
+}
+.french-vanilla-b {
+  position: absolute;
+  z-index: 1;
+  top: 0%;
+  left: 18%;
+  border-radius: 20%;
+  transform: scale(0.3, 0.3);
+}
+.mint-chocolatta-b {
+  position: absolute;
+  z-index: 1;
+  top: 0%;
+  left: 35%;
+  border-radius: 20%;
+  transform: scale(0.3, 0.3);
+}
+.tripple-chocolate-brownie-b {
+  position: absolute;
+  z-index: 1;
+  top: 0%;
+  left: 52%;
+  border-radius: 20%;
+  transform: scale(0.3, 0.3);
+}
+.caramel-honey-b {
+  position: absolute;
+  z-index: 1;
+  top: 5%;
+  left: 69%;
+  border-radius: 20%;
+  transform: scale(0.3, 0.3);
+}
+.FV,
+.MC,
+.TCB,
+.CH,
+.FLM,
+.BC,
+.FH,
+.TLM {
+  position: absolute;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0);
+  height: 45px;
+  width: 250px;
+  top: 0px;
+  left: 560px;
+}
+.click {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+  color: inherit;
+}
+.FV {
+  top: 483px;
+  left: 150px;
+}
+.MC {
+  top: 535px;
+  left: 150px;
+}
+.TCB {
+  top: 595px;
+  left: 150px;
+  width: 365px;
+}
+
+.CH {
+  top: 650px;
+  left: 150px;
+}
+
+.FLM {
+  top: 768px;
+  left: 150px;
+}
+.BC {
+  top: 820px;
+  left: 150px;
+}
+
+.FH {
+  top: 880px;
+  left: 280px;
+}
+
+.TLM {
+  top: 779px;
+  left: 435px;
+}
